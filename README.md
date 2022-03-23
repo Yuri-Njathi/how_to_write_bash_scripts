@@ -1,5 +1,7 @@
 # how_to_write_bash_scripts
 [source](https://phoenixnap.com/kb/write-bash-script) by Milica Dancuk
+
+
 Bash is a Unix CLI for interacting with the OS available in Linux and macOS.
 
 Bash scripts group terminal instructions.
